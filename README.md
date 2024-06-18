@@ -4,7 +4,7 @@ Bem-vindo à Pizzaria Pizza Scearch! Este é um projeto de visualização de um 
 
 ## Sobre o Projeto
 
-A Pizzaria Pizza Scearch é uma pizzaria fictícia que oferece uma variedade de deliciosas pizzas feitas com ingredientes frescos e de alta qualidade. 
+A Pizzaria Pizza Scearch é uma pizzaria fictícia que oferece uma variedade de deliciosas pizzas feitas com ingredientes frescos e de alta qualidade. Este site é um protótipo para um cardápio digital, permitindo aos clientes visualizar facilmente as opções disponíveis, entrar em contato com a pizzaria e acessar informações sobre o endereço.
 
 ## Funcionalidades
 
